@@ -1,8 +1,3 @@
 where are you!
-
-<<<<<<< HEAD
-
 who are you!
-=======
 i am here
->>>>>>> 6fb5dbc336fb686ae2147959f2028834c4ea3583
